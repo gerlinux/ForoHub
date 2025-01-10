@@ -8,7 +8,7 @@
 
 ### Foro Hub
 
->Foro hub permite la creacin de topicos.
+>Foro hub permite la creacion de topicos.
 Dichos topicos solo pueden ser cargado y modificados por 
 usuarios autenticados en el sistema via token.
 Los topicos no pueden tener titulos duplicados,
